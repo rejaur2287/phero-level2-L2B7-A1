@@ -16,6 +16,6 @@ A simple TypeScript project for Level 2 Assignment 1.
 
 ## 👨‍💻 Author
 
-Rejaur Rahman
+Md Rejaur Rahman
 
 - GitHub: https://github.com/rejaur2287
